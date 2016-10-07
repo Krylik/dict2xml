@@ -3,7 +3,7 @@ from distutils.core import setup
 
 setup(
     name='dict2xml',
-    version='0.0.1',
+    version='2.0.1',
     description='JSON-like dictionary to XML converter',
     author=u'Lucas Inojosa',
     author_email='lucas.inojosa@gmail.com',
